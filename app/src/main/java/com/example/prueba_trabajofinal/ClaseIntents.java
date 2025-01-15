@@ -6,7 +6,7 @@ import android.widget.TextView;
 
 public class ClaseIntents {
 
-    public static void siguientePagina(Boolean esCorrecto, Button botonCorrecto, Button botonError1, Button botonError2, TextView textView, Context context) {
+    public static void siguientePagina( TextView textView, Context context) {
         obtener.setCorrecto(esCorrecto);  // Asegúrate de que 'obtener' esté definido y accesible
         int contador=0;
         contador++;
