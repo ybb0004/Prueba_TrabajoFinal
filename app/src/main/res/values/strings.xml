@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Prueba_TrabajoFinal</string>
+    <string name="num1">Num 1</string>
+    <string name="num2">Num 2</string>
 </resources>
